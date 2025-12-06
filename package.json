@@ -1,0 +1,24 @@
+{
+  "name": "kurdish-runner",
+  "version": "1.0.0",
+  "description": "Kurdish Runner - Endless runner game prototype built with Phaser 3",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "keywords": [
+    "phaser",
+    "game",
+    "runner"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "phaser": "^3.70.0"
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
+
